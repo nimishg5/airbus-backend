@@ -9,5 +9,4 @@ public class AirbusApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AirbusApplication.class, args);
 	}
-
 }
